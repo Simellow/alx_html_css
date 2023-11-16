@@ -1,0 +1,1 @@
+The Short Stories website is dedicated to providing a platform for readers to explore and enjoy a collection of captivating short stories. It aims to promote the art of storytelling and provide a space for both established and aspiring writers to showcase their talent.
