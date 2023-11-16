@@ -1,1 +1,2 @@
 The Short Stories website is dedicated to providing a platform for readers to explore and enjoy a collection of captivating short stories. It aims to promote the art of storytelling and provide a space for both established and aspiring writers to showcase their talent.
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fallisonlester90%2Fpretty-pictures%2F&psig=AOvVaw11DM_Vo8OK06yoTH_95k6X&ust=1700243674425000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCND75LOLyYIDFQAAAAAdAAAAABAE" alt="lake">
