@@ -3,7 +3,7 @@ body, main {
 }
 body {
     flex-direction: column;
-    background-image: url(Background.jpg);
+    background-image: url(Images/Background.jpg);
 }
 main {
     flex-direction: row;
@@ -20,7 +20,7 @@ h1 {
     border-bottom: 1px solid black;
 }
 .comments {
-    background-image: url(Background.jpg);
+    background-image: url(Images/Background.jpg);
 }
 .thread {
     background-color:bisque;
